@@ -10,10 +10,10 @@ django runserver
 
 ## Install
 
-With [fisherman]:
+With [fisher]:
 
 ```sh
 fisher tyandell/djangofish
 ```
 
-[fisherman]: https://github.com/fisherman/fisherman
+[fisher]: https://github.com/jorgebucaran/fisher
